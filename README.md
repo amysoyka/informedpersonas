@@ -7,7 +7,8 @@ Opportunity: Generating Personas for UX Dev's is now easier, objective/unbiased 
 
 Datasets Used:
 
-ABS Census 2011 DataPacks http://www.abs.gov.au/websitedbs/censushome.nsf/home/datapacks?opendocument&navpos=250
+ABS Census 2011 DataPacks 
+* http://www.abs.gov.au/websitedbs/censushome.nsf/home/datapacks?opendocument&navpos=250
 
 More can be found out here:
 https://2016.hackerspace.govhack.org/content/informed-personas
